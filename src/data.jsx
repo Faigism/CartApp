@@ -27,6 +27,6 @@ const cartItems = [
     img: 'https://www.course-api.com/images/cart/phone-4.png',
     amount: 1,
   },
-];
+]
 
-export default cartItems;
+export default cartItems
